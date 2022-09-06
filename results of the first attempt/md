@@ -1,0 +1,4 @@
+data: "positive" and "negative"
+Using the observe_function on the video to obtain the time series. The observe_function is to sum the gray values of all pixels in each picture.
+We consider two cases, one is to do inter frame difference first and then use observation function, and the other is to directly use observation function.
+We use sliding window embedding to reconstruct the geometric space of time series.
